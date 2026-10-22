@@ -34,8 +34,9 @@ Python 3.10+
 📂 Структура
 
 blackjack/
-└── blackjack.py    # код игры
+└── blackjack.py # код игры
+
 👨‍💻 Автор
-@bogdik-dev
+@bogdik_dev
 
 ⭐️ Если понравилось — поставь звёздочку!
